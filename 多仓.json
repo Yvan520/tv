@@ -219,6 +219,10 @@
         {
             "url": "https://bitbucket.org/1771245847/tvbox/raw/main/tvbox.json",
             "name": "残月"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/Yvan520/tv/main/直播源.json",
+            "name": "直播源-港澳台"
         }
     ]
 }

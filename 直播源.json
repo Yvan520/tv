@@ -1,0 +1,53 @@
+{
+  "spider": "",
+  "wallpaper": "",
+  "lives": [
+    {
+      "name": "港澳台直播",
+      "type": 0,
+      "url": "https://epg.pw/test_channels_hong_kong.m3u",
+      "epg": "https://epg.pw/xmltv.xml?lang=zh-hans",
+      "logo": "https://epg.pw/logo/{name}.png",
+      "playerType": 2,
+      "timeout": 10
+    },
+    {
+      "name": "台湾直播",
+      "type": 0,
+      "url": "https://epg.pw/test_channels_taiwan.m3u",
+      "epg": "https://epg.pw/xmltv.xml?lang=zh-hans",
+      "logo": "https://epg.pw/logo/{name}.png",
+      "playerType": 2,
+      "timeout": 10
+    },
+    {
+      "name": "澳门直播",
+      "type": 0,
+      "url": "https://epg.pw/test_channels_macau.m3u",
+      "epg": "https://epg.pw/xmltv.xml?lang=zh-hans",
+      "logo": "https://epg.pw/logo/{name}.png",
+      "playerType": 2,
+      "timeout": 10
+    },
+    {
+      "name": "国内直播",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/RaycornM/TVbox-IPTV/main/Tivi.txt",
+      "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "playerType": 2,
+      "timeout": 10
+    },
+    {
+      "name": "海外直播",
+      "type": 0,
+      "url": "https://epg.pw/test_channels.m3u",
+      "epg": "https://epg.pw/xmltv.xml?lang=zh-hans",
+      "logo": "https://epg.pw/logo/{name}.png",
+      "playerType": 2,
+      "timeout": 10
+    }
+  ],
+  "sites": [],
+  "parses": []
+}
