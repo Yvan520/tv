@@ -1,205 +1,200 @@
 央视频道,#genre#
 CCTV-1 综合,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+CCTV-1 综合(备用),https://bc.188766.xyz/?ip=&mishitong=true&lunbo=false&mima=mianfeibuhuaqian
+CCTV-1 综合(备用2),https://stream1.freetv.fun/cctv1-28.m3u8
 CCTV-2 财经,https://stream1.freetv.fun/cctv2-42.m3u8
 CCTV-3 综艺,https://stream1.freetv.fun/cctv3-3.m3u8
 CCTV-4 中文国际,https://stream1.freetv.fun/cctv4-19.ctv
+CCTV-4 中文国际(备用),https://migu.188766.xyz/?migutoken=178c143a5e206f466e58de2f6698eb1c&id=CCTV4&type=yy
 CCTV-5 体育,https://stream1.freetv.fun/cctv5-71.m3u8
+CCTV-5 体育(备用),https://migu.188766.xyz/?migutoken=956b74698450fd0f9d3cedae07700bba&id=CCTV5&type=yy
 CCTV-5+ 体育赛事,https://stream1.freetv.fun/cctv5-plus-14.m3u8
+CCTV-5+ 体育赛事(备用),https://migu.188766.xyz/?migutoken=113d1bc1010a3a1792cc8897fbc356c2&id=CCTV5p&type=yy
 CCTV-6 电影,https://stream1.freetv.fun/cctv-6gao-qing-4.m3u8
+CCTV-6 电影(备用),https://migu.188766.xyz/?migutoken=ffb14128dbcab1611486aefb94b63f08&id=CCTV6&type=yy
 CCTV-7 国防军事,https://stream1.freetv.fun/cctv7-18.ctv
 CCTV-8 电视剧,https://stream1.freetv.fun/cctv-8gao-qing-1.m3u8
 CCTV-9 纪录,https://stream1.freetv.fun/cctv-9gao-qing-2.m3u8
 CCTV-10 科教,https://stream1.freetv.fun/cctv10-56.ctv
 CCTV-11 戏曲,https://stream1.freetv.fun/cctv11-70.ctv
 CCTV-12 社会与法,https://stream1.freetv.fun/cctv12-57.m3u8
-CCTV-13 新闻,https://stream1.freetv.fun/cctv13-58.m3u8
-CCTV-14 少儿,https://stream1.freetv.fun/cctv14-59.m3u8
-CCTV-15 音乐,https://stream1.freetv.fun/cctv15-60.m3u8
-CCTV-16 奥林匹克,https://stream1.freetv.fun/cctv16-61.m3u8
-CCTV-17 农业农村,https://stream1.freetv.fun/cctv17-62.m3u8
-卫视频道,#genre#
-湖南卫视,https://stream1.freetv.fun/hunan-1.m3u8
-浙江卫视,https://stream1.freetv.fun/zhejiang-1.m3u8
-江苏卫视,https://stream1.freetv.fun/jiangsu-1.m3u8
-东方卫视,https://stream1.freetv.fun/dongfang-1.m3u8
-北京卫视,https://stream1.freetv.fun/beijing-1.m3u8
-广东卫视,https://stream1.freetv.fun/guangdong-1.m3u8
-深圳卫视,https://stream1.freetv.fun/shenzhen-1.m3u8
-山东卫视,https://stream1.freetv.fun/shandong-1.m3u8
-四川卫视,https://stream1.freetv.fun/sichuan-1.m3u8
-湖北卫视,https://stream1.freetv.fun/hubei-1.m3u8
-天津卫视,https://stream1.freetv.fun/tianjin-1.m3u8
-重庆卫视,https://stream1.freetv.fun/chongqing-1.m3u8
-河南卫视,https://stream1.freetv.fun/henan-1.m3u8
-河北卫视,https://stream1.freetv.fun/hebei-1.m3u8
-福建卫视,https://stream1.freetv.fun/fujian-1.m3u8
-台湾频道,#genre#
-八大第一台,https://stream1.freetv.fun/ba-da-1.ctv
-八大综合台,https://stream1.freetv.fun/ba-da-zong-he.ctv
-八大戏剧台,https://stream1.freetv.fun/ba-da-xi-ju.ctv
-纬来体育台,https://stream1.freetv.fun/wei-lai-ti-yu.ctv
-纬来育乐台,https://stream1.freetv.fun/wei-lai-yu-le.ctv
-纬来电影台,https://stream1.freetv.fun/wei-lai-dian-ying.ctv
-三立都会台,https://stream1.freetv.fun/san-li-du-hui.ctv
-三立台湾台,https://stream1.freetv.fun/san-li-tai-wan.ctv
-东森综合台,https://stream1.freetv.fun/dong-sen-zong-he.ctv
-东森超视,https://stream1.freetv.fun/dong-sen-chao-shi.ctv
-东森电影台,https://stream1.freetv.fun/dong-sen-dian-ying.ctv
-东森新闻台,https://stream1.freetv.fun/dong-sen-xin-wen.ctv
-中天新闻台,https://stream1.freetv.fun/zhong-tian-xin-wen.ctv
-中天综合台,https://stream1.freetv.fun/zhong-tian-zong-he.ctv
-年代新闻台,https://stream1.freetv.fun/nian-dai-xin-wen.ctv
-年代财经台,https://stream1.freetv.fun/nian-dai-cai-jing.ctv
-非凡新闻台,https://stream1.freetv.fun/fei-fan-xin-wen.ctv
-TVBS,https://stream1.freetv.fun/tvb1zong-he-1.m3u8
-TVBS欢乐台,https://stream1.freetv.fun/tvbs-huan-le.ctv
-TVBS新闻台,http://s1.an94tv.cfd/taiwan/tvbs-1/AKTV.m3u8
-TVBS Asia,https://stream1.freetv.fun/tvbs-asia.ctv
-龙祥电影台,https://stream1.freetv.fun/long-xiang-dian-ying.ctv
-好莱坞电影台,https://stream1.freetv.fun/hao-lai-wu-dian-ying.ctv
-卫视中文台,https://stream1.freetv.fun/wei-shi-zhong-wen.ctv
-卫视电影台,https://stream1.freetv.fun/wei-shi-dian-ying.ctv
-星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi.ctv
-香港频道,#genre#
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-明珠台,https://mgev.188766.xyz/?migutoken=5a4d89aab5833a679e8a3af1c6aa172d&id=hk_mzt&type=dy
-J2,http://cs.iptviptv.site:9694/hls/916/index.m3u8
-ViuTV,https://stream1.freetv.fun/viu-tv.ctv
-香港开电视,https://stream1.freetv.fun/hong-kong-kai-tv.ctv
-TVB无线新闻,https://stream1.freetv.fun/wu-xian-xin-wen-12.ctv
+CCTV-13 新闻,https://stream1.freetv.fun/cctv13-xin-wen-1.m3u8
+CCTV-14 少儿,https://stream1.freetv.fun/cctv14-57.m3u8
+CCTV-15 音乐,https://stream1.freetv.fun/cctv15-61.m3u8
+CCTV-16 奥林匹克,https://stream1.freetv.fun/cctv16-ao-lin-pi-ke-2.m3u8
+CCTV-16 奥林匹克 4K,https://stream1.freetv.fun/cctv164k-1.m3u8
+CCTV-17 农业农村,https://stream1.freetv.fun/cctv17-9.m3u8
+CCTV-4K 超高清,https://stream1.freetv.fun/cctv8kchao-gao-qing-1.m3u8
+中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
+CHC影迷电影,https://migu.188766.xyz/?migutoken=db2a8f827abedfb8bd1ba3f4fc0e7ba4&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&type=yy
+CHC动作电影,https://migu.188766.xyz/?migutoken=5dd3c3fb0f9ce35193bb15c45fbf9856&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&type=yy
+CHC家庭影院,https://migu.188766.xyz/?migutoken=1f27022c50c022278231a59491574977&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&type=yy
+CGTN-记录,https://english-livebkali.cgtn.com/live/doccgtn.m3u8
+CGTN英语,https://english-livebkali.cgtn.com/live/encgtn.m3u8
+CGTN俄语,https://0472.org/hls/cgtne.m3u8
+CGTN法语,https://0472.org/hls/cgtnf.m3u8
+CGTN西语,https://0472.org/hls/cgtnx.m3u8
+CGTN阿语,https://0472.org/hls/cgtna.m3u8
+CCTV-兵器科技,http://www.lizhinas.top:1009/rtp/239.252.219.98:5140
+CCTV-第一剧场,http://www.lizhinas.top:1009/rtp/239.252.219.86:5140
+CCTV-风云足球,http://36.32.99.215:5003/live1584.m3u8
+CCTV-世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
+CCTV-央视台球,http://36.32.99.215:5003/live1849.m3u8
+CCTV-央视高网,http://36.32.99.215:5003/live1796.m3u8
+CCTV-风云音乐,http://www.lizhinas.top:1009/rtp/239.252.219.87:5140
+CCTV-风云剧场,http://www.lizhinas.top:1009/rtp/239.252.219.89:5140
+CCTV-怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8
+
+广东,#genre#
+
+广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-87.m3u8
+广东卫视(备用),http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
+广东卫视(备用2),https://migu.188766.xyz/?migutoken=f7dcf8923b99bdd2227c6595bfed0160&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy
+大湾区卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.7:11111
+深圳卫视,http://183.30.202.251:8000/udp/239.77.0.67:5146
+广东体育,http://116.28.124.155:5000/udp/239.77.0.168:5146
+广东体育（备用）,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+广东体育（备用2）,https://migu.188766.xyz/?migutoken=b6964e30c035e36178df2fe28f23e4f2&id=hk_gdty&type=dy
+广东体育（备用3）,https://hk.188766.xyz/?migutoken=2336dbec9c2383aa6d9e769a2997dcb9&id=gd_gdty&type=sz
+广东体育（备用4）,https://stream1.freetv.fun/yan-dong-ti-yu-22.m3u8
+广东体育（备用5）,https://stream1.freetv.fun/yan-dong-ti-yu-37.ctv
+广东珠江,https://hk.188766.xyz/?migutoken=5602d5e6460d00c7ffb54da855e8a1bc&id=gd_gdzj&type=sz
+广东珠江（备用）,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+广东珠江（备用2）,https://stream1.freetv.fun/yan-dong-zhu-jiang-23.ctv
+广东新闻,https://hk.188766.xyz/?migutoken=55167266f6adf1371604acedef85a23c&id=gd_gdxw&type=sz
+广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
+广州新闻,http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
+广东经济科教,http://qjrhc.jydjd.top:2911/udp/224.1.100.6:11111
+广东影视,http://qjrhc.jydjd.top:2911/udp/224.1.100.11:11111
+广东少儿,http://113.83.248.220:4200/udp/239.77.0.250:5146
+广州影视,http://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=1bd3a1082ab5b89f48c1bff9a3760da4&txTime=18d57929bd4
+广州法治,http://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=3e84cd8eba844b5dc2150612295c7a52&txTime=18d578f4493
+南国都市,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
+嘉佳卡通,https://mgev.188766.xyz/?migutoken=d95df3241889ca509b59c78326eb17e6&id=gd_jjkt&type=sz
+岭南戏曲,http://qjrhc.jydjd.top:2911/udp/224.1.100.120:11111
+清远文旅生活,http://113.83.248.220:4200/udp/239.253.43.34:5146
+
+港澳台,#genre#
+
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰中文(备用),http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+凤凰中文(备用2),https://mgev.188766.xyz/?migutoken=e394552a624627ead459483a18f4cd86&id=fhzw&pp=1
+凤凰中文(备用3),https://stream1.freetv.fun/feng-huang-zhong-wen-4.ctv
 凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+凤凰资讯(备用),https://mgev.188766.xyz/?migutoken=a533884a80db07f1226671c268297d8a&id=fhzx&pp=1
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+凤凰香港(备用),https://mgev.188766.xyz/?migutoken=82c5c81ed7e837e64bba2b6cef670f5d&id=fhhk&pp=1
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+翡翠台4K,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+明珠台,http://qjrhc.jydjd.top:2911/udp/224.1.100.2:11111
+明珠台(备用),https://mgev.188766.xyz/?migutoken=5a4d89aab5833a679e8a3af1c6aa172d&id=hk_mzt&type=dy
 凤凰电影,https://stream1.freetv.fun/feng-huang-dian-ying-2.ctv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-澳门频道,#genre#
+TVB无线新闻,https://stream1.freetv.fun/wu-xian-xin-wen-12.ctv
+TVB无线新闻(备用),https://hk.188766.xyz/?migutoken=b3d34d894bb89de551e8f637ab7f466d&id=hk_wxxw&type=dy
+TVB无线新闻(备用2),http://php.jdshipin.com:8880/smt.php?id=inews_twn
+TVBS新闻台,http://s1.an94tv.cfd/taiwan/tvbs-1/AKTV.m3u8
 澳视澳门,https://migu.188766.xyz/?migutoken=d69c02a88c64969990eb0c4782b2428b&id=hk_asam&type=dy
 澳亚卫视,https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
-澳门莲花卫视,https://stream1.freetv.fun/ao-men-lian-hua.ctv
-澳门综艺,https://stream1.freetv.fun/ao-men-zong-yi.ctv
-美国频道,#genre#
-CNN,https://iptv-org.github.io/iptv/countries/us.m3u
-Fox News,https://iptv-org.github.io/iptv/countries/us.m3u
-MSNBC,https://iptv-org.github.io/iptv/countries/us.m3u
-CNBC,https://iptv-org.github.io/iptv/countries/us.m3u
-Bloomberg,https://iptv-org.github.io/iptv/countries/us.m3u
-ESPN,https://iptv-org.github.io/iptv/countries/us.m3u
-Fox Sports,https://iptv-org.github.io/iptv/countries/us.m3u
-CBS Sports,https://iptv-org.github.io/iptv/countries/us.m3u
-Discovery,https://iptv-org.github.io/iptv/countries/us.m3u
-National Geographic,https://iptv-org.github.io/iptv/countries/us.m3u
-History Channel,https://iptv-org.github.io/iptv/countries/us.m3u
-Disney Channel,https://iptv-org.github.io/iptv/countries/us.m3u
-Nickelodeon,https://iptv-org.github.io/iptv/countries/us.m3u
-Cartoon Network,https://iptv-org.github.io/iptv/countries/us.m3u
-HBO,https://iptv-org.github.io/iptv/countries/us.m3u
-MTV,https://iptv-org.github.io/iptv/countries/us.m3u
-TLC,https://iptv-org.github.io/iptv/countries/us.m3u
-ABC News,https://iptv-org.github.io/iptv/countries/us.m3u
-CBS News,https://iptv-org.github.io/iptv/countries/us.m3u
-NBC News,https://iptv-org.github.io/iptv/countries/us.m3u
-英国频道,#genre#
-BBC One,https://iptv-org.github.io/iptv/countries/gb.m3u
-BBC Two,https://iptv-org.github.io/iptv/countries/gb.m3u
-BBC News,https://iptv-org.github.io/iptv/countries/gb.m3u
-BBC World,https://iptv-org.github.io/iptv/countries/gb.m3u
-ITV,https://iptv-org.github.io/iptv/countries/gb.m3u
-Channel 4,https://iptv-org.github.io/iptv/countries/gb.m3u
-Channel 5,https://iptv-org.github.io/iptv/countries/gb.m3u
-Sky News,https://iptv-org.github.io/iptv/countries/gb.m3u
-Sky Sports,https://iptv-org.github.io/iptv/countries/gb.m3u
-BT Sport,https://iptv-org.github.io/iptv/countries/gb.m3u
-Eurosport,https://iptv-org.github.io/iptv/countries/gb.m3u
-MTV UK,https://iptv-org.github.io/iptv/countries/gb.m3u
-日本频道,#genre#
-NHK総合,https://iptv-org.github.io/iptv/countries/jp.m3u
-NHK Eテレ,https://iptv-org.github.io/iptv/countries/jp.m3u
-日本テレビ,https://iptv-org.github.io/iptv/countries/jp.m3u
-テレビ朝日,https://iptv-org.github.io/iptv/countries/jp.m3u
-TBS,https://iptv-org.github.io/iptv/countries/jp.m3u
-テレビ東京,https://iptv-org.github.io/iptv/countries/jp.m3u
-フジテレビ,https://iptv-org.github.io/iptv/countries/jp.m3u
-TBS NEWS,https://iptv-org.github.io/iptv/countries/jp.m3u
-日経CNBC,https://iptv-org.github.io/iptv/countries/jp.m3u
-WOWOW,https://iptv-org.github.io/iptv/countries/jp.m3u
-韩国频道,#genre#
-KBS1,https://iptv-org.github.io/iptv/countries/kr.m3u
-KBS2,https://iptv-org.github.io/iptv/countries/kr.m3u
-MBC,https://iptv-org.github.io/iptv/countries/kr.m3u
-SBS,https://iptv-org.github.io/iptv/countries/kr.m3u
-EBS,https://iptv-org.github.io/iptv/countries/kr.m3u
-tvN,https://iptv-org.github.io/iptv/countries/kr.m3u
-JTBC,https://iptv-org.github.io/iptv/countries/kr.m3u
-OCN,https://iptv-org.github.io/iptv/countries/kr.m3u
-YTN,https://iptv-org.github.io/iptv/countries/kr.m3u
-Mnet,https://iptv-org.github.io/iptv/countries/kr.m3u
-法国频道,#genre#
-France 2,https://iptv-org.github.io/iptv/countries/fr.m3u
-France 3,https://iptv-org.github.io/iptv/countries/fr.m3u
-France 4,https://iptv-org.github.io/iptv/countries/fr.m3u
-France 5,https://iptv-org.github.io/iptv/countries/fr.m3u
-TF1,https://iptv-org.github.io/iptv/countries/fr.m3u
-M6,https://iptv-org.github.io/iptv/countries/fr.m3u
-BFM TV,https://iptv-org.github.io/iptv/countries/fr.m3u
-Eurosport France,https://iptv-org.github.io/iptv/countries/fr.m3u
-德国频道,#genre#
-ARD,https://iptv-org.github.io/iptv/countries/de.m3u
-ZDF,https://iptv-org.github.io/iptv/countries/de.m3u
-RTL,https://iptv-org.github.io/iptv/countries/de.m3u
-SAT.1,https://iptv-org.github.io/iptv/countries/de.m3u
-ProSieben,https://iptv-org.github.io/iptv/countries/de.m3u
-DW News,https://iptv-org.github.io/iptv/countries/de.m3u
-NTV,https://iptv-org.github.io/iptv/countries/de.m3u
-俄罗斯频道,#genre#
-Первый канал,https://iptv-org.github.io/iptv/countries/ru.m3u
-Россия 1,https://iptv-org.github.io/iptv/countries/ru.m3u
-Россия 24,https://iptv-org.github.io/iptv/countries/ru.m3u
-НТВ,https://iptv-org.github.io/iptv/countries/ru.m3u
-RT News,https://iptv-org.github.io/iptv/countries/ru.m3u
-Матч ТВ,https://iptv-org.github.io/iptv/countries/ru.m3u
-泰国频道,#genre#
-ช่อง 3,https://iptv-org.github.io/iptv/countries/th.m3u
-ช่อง 7,https://iptv-org.github.io/iptv/countries/th.m3u
-ONE 31,https://iptv-org.github.io/iptv/countries/th.m3u
-Workpoint TV,https://iptv-org.github.io/iptv/countries/th.m3u
-Thai PBS,https://iptv-org.github.io/iptv/countries/th.m3u
-GMM 25,https://iptv-org.github.io/iptv/countries/th.m3u
-新加坡频道,#genre#
-Channel 5,https://iptv-org.github.io/iptv/countries/sg.m3u
-Channel 8,https://iptv-org.github.io/iptv/countries/sg.m3u
-CNA,https://iptv-org.github.io/iptv/countries/sg.m3u
-Suria,https://iptv-org.github.io/iptv/countries/sg.m3u
-马来西亚频道,#genre#
-TV1,https://iptv-org.github.io/iptv/countries/my.m3u
-TV2,https://iptv-org.github.io/iptv/countries/my.m3u
-TV3,https://iptv-org.github.io/iptv/countries/my.m3u
-8TV,https://iptv-org.github.io/iptv/countries/my.m3u
-NTV7,https://iptv-org.github.io/iptv/countries/my.m3u
-印度频道,#genre#
-Star Plus,https://iptv-org.github.io/iptv/countries/in.m3u
-Zee TV,https://iptv-org.github.io/iptv/countries/in.m3u
-Colors,https://iptv-org.github.io/iptv/countries/in.m3u
-Sony TV,https://iptv-org.github.io/iptv/countries/in.m3u
-NDTV 24x7,https://iptv-org.github.io/iptv/countries/in.m3u
-Times Now,https://iptv-org.github.io/iptv/countries/in.m3u
-Star Sports 1,https://iptv-org.github.io/iptv/countries/in.m3u
-澳大利亚频道,#genre#
-ABC Australia,https://iptv-org.github.io/iptv/countries/au.m3u
-SBS Australia,https://iptv-org.github.io/iptv/countries/au.m3u
-Seven Network,https://iptv-org.github.io/iptv/countries/au.m3u
-Nine Network,https://iptv-org.github.io/iptv/countries/au.m3u
-Fox Sports Australia,https://iptv-org.github.io/iptv/countries/au.m3u
-ESPN Australia,https://iptv-org.github.io/iptv/countries/au.m3u
-新闻频道,#genre#
-Al Jazeera,https://iptv-org.github.io/iptv/countries/qa.m3u
-France 24,https://iptv-org.github.io/iptv/countries/fr.m3u
-NHK World,https://iptv-org.github.io/iptv/countries/jp.m3u
-CGTN,https://iptv-org.github.io/iptv/countries/cn.m3u
-Sky News Arabia,https://iptv-org.github.io/iptv/countries/ae.m3u
-TRT World,https://iptv-org.github.io/iptv/countries/tr.m3u
-Euronews,https://iptv-org.github.io/iptv/countries/fr.m3u
-CNA,https://iptv-org.github.io/iptv/countries/sg.m3u
-戏曲频道,#genre#
-戏曲综合,https://stream1.freetv.fun/xiqu-1.ctv
-京剧频道,https://stream1.freetv.fun/jingju-1.ctv
-相声小品,https://stream1.freetv.fun/xiangsheng-1.ctv
+莲花卫视,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
+中视,https://stream1.freetv.fun/zhong-shi-7.m3u8
+亚洲美食,https://ushls.ballbar.net/afc_twn/playlist-15.m3u8a?t=1735543553&token=da3fad8c85ab5849addf84cfca7ea03e
+亚洲旅游,https://stream1.freetv.fun/ya-zhou-lu-you-1.m3u8
+CINEMAX,https://ushls.ballbar.net/cinemax_twn/playlist-25.m3u8a?t=1735544618&token=8ebac953537627ece599949d71f0c2a7
+TVBsuper,http://bva.iptviptv.site:9694/hls/916/index.m3u8
+TVB+,https://mgev.188766.xyz/?migutoken=9d6bbaf01123a633c40b895b6c1da618&id=hk_tvbxh&type=dy
+TVB无线星河,https://mgev.188766.xyz/?migutoken=9d6bbaf01123a633c40b895b6c1da618&id=hk_tvbxh&type=dy
+TVB无线星河(备用),http://php.jdshipin.com:8880/smt.php?id=Xinhe
+TVB娱乐新闻,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
+TVB娱乐新闻(备用),http://ali.hlspull.yximgs.com/live/6425965d63a08c85ca806bfcc8c75cf4.flv
+TVBJ1,https://stream1.freetv.fun/fei-cui-tai-bei-mei-ban-1.ctv
+TVBJ2,http://cs.iptviptv.site:9694/hls/916/index.m3u8
+TVBS,https://stream1.freetv.fun/tvb1zong-he-1.m3u8
+美食星球,https://ushls.ballbar.net/foodplanet_twn/playlist-15.m3u8a?t=1735543690&token=cd34200ffec4741d57fb3f076601ec4e
+星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-biao-qing-1.ctv
+星空卫视(备用),http://qjrhc.jydjd.top:2911/udp/224.1.100.13:11111
+星光综合,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+东森新闻,http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
+东森电影,https://s1.an94tv.cfd/aktv2/CH-1/AKTV.m3u8
+环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+纬来日本,rtmp://f13h.mine.nu/sat/tv771
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
+纬来体育,http://s1.an94tv.cfd/aktv2/CH-0/AKTV.m3u8
+纬来电影,https://ushls.ballbar.net/videolandmovie/playlist-15.m3u8a?t=1735544032&token=ec3d3a4c5c1c8f401cbe3ee78829811f
+Animax(HK),http://s1.an94tv.cfd/aktv/animaxhk/AKTV.m3u8
+
+测试国际,#genre#
+
+日本NHK,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+日本全天新闻,http://s1.an94tv.cfd/aktvjp/ntv/AKTV.m3u8
+韩国KBS,http://avd.iptviptv.site:9694/hls/1005/index.m3u8
+今日俄罗斯,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+HBO,https://s2.m16tv.cfd/aktv2/hbo/AKTV.m3u8
+HBO Family,https://ushls.ballbar.net/hbofamily/hbohd_twn/playlist-15.m3u8a?t=1735545081&token=e0151267ec5c7a6ec494e2a587883c73
+
+体育赛事,#genre#
+
+新视觉,http://php.jdshipin.com/bestv.php?id=xsjhd/4000000
+劲爆体育,http://qjrhc.jydjd.top:2911/udp/224.1.100.129:11111
+五星体育,https://migu.188766.xyz/?migutoken=ef8c0aacd93b09b51bb4eb5b8a61b019&id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&pp=1
+先锋乒羽,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/xianfeng/__op/default/__f/index.m3u8
+广州竞赛,http://qjrhc.jydjd.top:2911/udp/224.1.100.105:11111
+魅力足球,http://qjrhc.jydjd.top:2911/udp/224.1.100.133:11111
+哒啵电竞,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226891/1.m3u8
+哒啵赛事,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226905/1.m3u8
+
+卫视频道,#genre#
+
+北京卫视,http://120.76.248.139/live/bfgd/4200000083.m3u8
+湖南卫视,https://migu.188766.xyz/?migutoken=f59f1f4109adf86def201b6374ee9744&id=hnws&type=sz
+东方卫视,https://migu.188766.xyz/?migutoken=e8c5846435275641b0e8c6151156e11d&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&type=yy
+四川卫视,http://183.30.202.251:8000/udp/239.77.0.60:5146
+天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
+安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
+江苏卫视,https://migu.188766.xyz/?migutoken=0b7f2f5755e5487f514690ebbdbde1af&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&type=yy
+浙江卫视,https://migu.188766.xyz/?migutoken=30899843e72f42eced18289b58440571&id=z_jws&type=sz
+山东卫视,http://183.30.202.251:8000/udp/239.77.0.61:5146
+海南卫视,https://migu.188766.xyz/?migutoken=f898562d40ddebb3d6a1e274b2efd896&id=hn_hnws&type=sz
+东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
+重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
+吉林卫视,https://migu.188766.xyz/?migutoken=b945622c140ac5b32849786f127cb2ae&id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy
+新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
+兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?zjild
+
+浙江,#genre#
+浙江卫视,https://migu.188766.xyz/?migutoken=30899843e72f42eced18289b58440571&id=z_jws&type=sz
+浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+
+北京,#genre#
+北京卫视,https://migu.188766.xyz/?migutoken=e0bead1de6c9d2fa1bfd7c8cebf613f2&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
+北京财经,https://migu.188766.xyz/?migutoken=a24459aac2415af0c51b1570c8315fa8&id=%E5%8C%97%E4%BA%AC%E8%B4%A2%E7%BB%8F&type=yy
+北京青年,http://123.113.187.204:8000/udp/239.3.1.118:8000
+北京影视,https://migu.188766.xyz/?migutoken=5ca711a90a3cc4146668498e42300749&id=%E5%8C%97%E4%BA%AC%E5%BD%B1%E8%A7%86&type=yy
+北京新闻,https://migu.188766.xyz/?migutoken=0b6b7dbae1997f665a956e68089fa5e9&id=%E5%8C%97%E4%BA%AC%E6%96%B0%E9%97%BB&type=yy
+
+上海,#genre#
+
+上海东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
+上海-ICS-外语,http://127.0.0.1:35455/itv/5000000010000030951.m3u8?cdn=bestzb
+上海第一财经,https://www.freetv.top/migu/608780988.m3u8?migutoken=29d8831316d0b82ceac976c7ca6d6537594a1c36966c73c28d6d840c2e7a403fd1dbf9c6295ebd2b1ed4e65817deb656b4d383b5ba9fa0a8b1f6565c8ccdf352f731ad091de7991651a2dd3284
+上海东方财经,http://qjrhc.jydjd.top:2911/udp/224.1.100.141:11111
+上海东方影视,http://127.0.0.1:35455/itv/5000000010000032212.m3u8?cdn=bestzb
+上海都市,http://livetv.wqwqwq.sbs/itv/5000000010000018926.m3u8?cdn=bestzb
+上海法治天地,http://127.0.0.1:35455/itv/2000000002000000014.m3u8?cdn=hnbblive
+上海纪实人文-HEVC,http://61.173.144.157:9901/tsfile/live/1005_1.m3u8
+上海五星体育,https://migu.188766.xyz/?migutoken=ef8c0aacd93b09b51bb4eb5b8a61b019&id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&pp=1
+上海新闻综合,http://61.173.144.157:9901/tsfile/live/1000_1.m3u8
+
+数字频道,#genre#
+
+乐游频道,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031112/1.m3u8
+都市剧场,http://116.1.184.56:8181/tsfile/live/1087_1.m3u8
+热播剧场,http://116.1.184.56:8181/tsfile/live/1089_1.m3u8
+欢笑剧场,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000002000009455/1.m3u8
+快乐垂钓,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031206/1.m3u8
+游戏风云,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031114/1.m3u8
+哒啵赛事,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
+黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+魅力足球,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/mlzqHD/__op/default/__f/index.m3u8
