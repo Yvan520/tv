@@ -1,5 +1,5 @@
 央视频道,#genre#
-CCTV-1 综合,https://stream1.freetv.fun/cctv1-28.m3u8
+CCTV-1 综合,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 CCTV-2 财经,https://stream1.freetv.fun/cctv2-42.m3u8
 CCTV-3 综艺,https://stream1.freetv.fun/cctv3-3.m3u8
 CCTV-4 中文国际,https://stream1.freetv.fun/cctv4-19.ctv
@@ -39,31 +39,18 @@ CCTV-17 农业农村,https://stream1.freetv.fun/cctv17-62.m3u8
 江西卫视,https://stream1.freetv.fun/jiangxi-1.m3u8
 贵州卫视,https://stream1.freetv.fun/guizhou-1.m3u8
 云南卫视,https://stream1.freetv.fun/yunnan-1.m3u8
-陕西卫视,https://stream1.freetv.fun/shanxi-1.m3u8
-山西卫视,https://stream1.freetv.fun/shanxi2-1.m3u8
-吉林卫视,https://stream1.freetv.fun/jilin-1.m3u8
-广西卫视,https://stream1.freetv.fun/guangxi-1.m3u8
-甘肃卫视,https://stream1.freetv.fun/gansu-1.m3u8
-内蒙古卫视,https://stream1.freetv.fun/neimenggu-1.m3u8
-新疆卫视,https://stream1.freetv.fun/xinjiang-1.m3u8
-西藏卫视,https://stream1.freetv.fun/xizang-1.m3u8
-宁夏卫视,https://stream1.freetv.fun/ningxia-1.m3u8
-青海卫视,https://stream1.freetv.fun/qinghai-1.m3u8
-海南卫视,https://stream1.freetv.fun/hainan-1.m3u8
 港澳台频道,#genre#
-翡翠台,https://epg.pw/test_channels_hong_kong.m3u8?channel=tvbj
-明珠台,https://epg.pw/test_channels_hong_kong.m3u8?channel=tvbwd
-凤凰中文台,https://epg.pw/test_channels_hong_kong.m3u8?channel=phoenixchinese
-凤凰资讯台,https://epg.pw/test_channels_hong_kong.m3u8?channel=phoenixinfo
-TVB星网新闻台,https://epg.pw/test_channels_hong_kong.m3u8?channel=tvbn
-ViuTV,https://epg.pw/test_channels_hong_kong.m3u8?channel=viutv
-HOY TV,https://epg.pw/test_channels_hong_kong.m3u8?channel=hoytv
-台视,https://epg.pw/test_channels_taiwan.m3u8?channel=ttv
-中视,https://epg.pw/test_channels_taiwan.m3u8?channel=ctv
-华视,https://epg.pw/test_channels_taiwan.m3u8?channel=cts
-民视,https://epg.pw/test_channels_taiwan.m3u8?channel=ftv
-TVBS,https://epg.pw/test_channels_taiwan.m3u8?channel=tvbs
-三立都会台,https://epg.pw/test_channels_taiwan.m3u8?channel=setn
-东森综合台,https://epg.pw/test_channels_taiwan.m3u8?channel=ebbcs
-澳门莲花卫视,https://epg.pw/test_channels_macau.m3u8?channel=lotustv
-澳门澳视,https://epg.pw/test_channels_macau.m3u8?channel=cmctv
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+翡翠台4K,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+明珠台,https://mgev.188766.xyz/?migutoken=5a4d89aab5833a679e8a3af1c6aa172d&id=hk_mzt&type=dy
+TVB无线新闻,https://stream1.freetv.fun/wu-xian-xin-wen-12.ctv
+TVBJ2,http://cs.iptviptv.site:9694/hls/916/index.m3u8
+TVBS,https://stream1.freetv.fun/tvb1zong-he-1.m3u8
+TVBS新闻台,http://s1.an94tv.cfd/taiwan/tvbs-1/AKTV.m3u8
+澳视澳门,https://migu.188766.xyz/?migutoken=d69c02a88c64969990eb0c4782b2428b&id=hk_asam&type=dy
+澳亚卫视,https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+凤凰电影,https://stream1.freetv.fun/feng-huang-dian-ying-2.ctv
